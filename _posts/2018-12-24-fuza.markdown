@@ -22,11 +22,16 @@ categories: jekyll update
  wo | rld |
 
 **这是加粗的文字**
-*这是倾斜的文字*`
+
+*这是倾斜的文字*
+
 ***这是斜体加粗的文字***
+
 ~~这是加删除线的文字~~
 
-> 这段文字将被高亮显示...
+> <font color='red'>这段文字将被高亮显示...</font>
+
+>>>dd
 
 ***
 哈哈哈
@@ -37,8 +42,8 @@ categories: jekyll update
 
 <table>
     <tr>
-        <td>Foo</td>
-        <td>Foo</td>
+        <th>Foo</th>
+        <th>Foo</th>
     </tr>
     <tr>
         <td>Foo</td>
