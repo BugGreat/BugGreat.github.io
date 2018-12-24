@@ -1,0 +1,54 @@
+---
+layout: post
+title:  "markdown语法"
+date:   2018-12-24 15:40:00 +0800
+categories: jekyll update
+---
+# 字体
+
+## 字体
+
+### 字体
+
+#### 字体
+
+##### 字体
+
+###### 字体
+## 表格
+
+ he | llo |d
+--|:--:|--:|
+ wo | rld |
+
+**这是加粗的文字**
+*这是倾斜的文字*`
+***这是斜体加粗的文字***
+~~这是加删除线的文字~~
+
+> 这段文字将被高亮显示...
+
+***
+哈哈哈
+
+---
+
+<font color='blue'>这是一个普通段落。</font>
+
+<table>
+    <tr>
+        <td>Foo</td>
+        <td>Foo</td>
+    </tr>
+    <tr>
+        <td>Foo</td>
+        <td>Foo</td>
+    </tr>
+</table>
+
+<font color='green'>这是一个普通段落。</font>
+
+
+[jekyll-docs]: https://jekyllrb.com/docs/home
+[jekyll-gh]:   https://github.com/jekyll/jekyll
+[jekyll-talk]: https://talk.jekyllrb.com/
