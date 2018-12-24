@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "显示图片!"
+date:   2018-12-24 12:01:37 +0800
+categories: jekyll update
+---
+![有帮助的截图]({{ site.url }}/assets/120.jpg)
+
+
+
+[jekyll-docs]: https://jekyllrb.com/docs/home
+[jekyll-gh]:   https://github.com/jekyll/jekyll
+[jekyll-talk]: https://talk.jekyllrb.com/
