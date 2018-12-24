@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "markdown语法"
-date:   2018-12-24 15:40:00
+date:   2018-12-24 15:40:00 GMT+0800
 categories: jekyll update
 ---
 # 字体
