@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Hello World!"
-date:   2018-11-09 12:01:37 +0800
+date:   2018-11-09 12:01:37  GMT+0800
 categories: jekyll update
 ---
 这是一小步，却是一大步
