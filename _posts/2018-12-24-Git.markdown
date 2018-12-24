@@ -1,0 +1,22 @@
+---
+layout: post
+title:  "commit的现象"
+date:   2018-12-24 12:01:37  GMT+0800
+categories: jekyll update
+---
+
+之前的一个github账号是gloryvain@qq.com,和现在码云是一个账号
+
+所以提交的时候，奇妙的事情就发生了，显示提交者是之前的这个账号
+
+刚才把之前的这个账号去除了这个email再提交
+
+只显示了git得配置username xiongqianq
+
+所以把gloryvain@qq.com绑定到此项目的账号下试试
+
+
+
+[jekyll-docs]: https://jekyllrb.com/docs/home
+[jekyll-gh]:   https://github.com/jekyll/jekyll
+[jekyll-talk]: https://talk.jekyllrb.com/
