@@ -1,0 +1,18 @@
+---
+layout: post
+title:  "配置分页"
+date:   2018-12-25 09:35:00  GMT+0800
+categories: jekyll update
+---
+
+## 分页
+
+根目录下的index.md是不支持的，需要改后缀.html，之后再复制粘贴开发文档里的分页
+简单的分页就完成了
+
+
+
+
+[jekyll-docs]: https://jekyllrb.com/docs/home
+[jekyll-gh]:   https://github.com/jekyll/jekyll
+[jekyll-talk]: https://talk.jekyllrb.com/
