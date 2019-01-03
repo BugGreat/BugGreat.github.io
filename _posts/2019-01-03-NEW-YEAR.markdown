@@ -1,0 +1,19 @@
+---
+layout: post
+title:  "新的一年"
+date:   2018-01-03 16:34:00  GMT+0800
+categories: jekyll update
+---
+
+# 
+
+新的一年
+回首舊的一年，工作上還是有收穫的？什么收获
+雖然還是在搬砖的阶段
+
+
+
+
+[jekyll-docs]: https://jekyllrb.com/docs/home
+[jekyll-gh]:   https://github.com/jekyll/jekyll
+[jekyll-talk]: https://talk.jekyllrb.com/
