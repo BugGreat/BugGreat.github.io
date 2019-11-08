@@ -1,0 +1,17 @@
+---
+layout: post
+title:  "丧"
+date:   2019-11-08 15:41:00  GMT+0800
+categories: jekyll update
+---
+
+# 
+
+为什么这门丧德样子
+
+
+
+
+[jekyll-docs]: https://jekyllrb.com/docs/home
+[jekyll-gh]:   https://github.com/jekyll/jekyll
+[jekyll-talk]: https://talk.jekyllrb.com/
