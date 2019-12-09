@@ -1,0 +1,29 @@
+---
+layout: post
+title:  "记一次工行API对接"
+date:   2019-12-09 10:40:00  GMT+0800
+categories: jekyll update
+---
+
+# 
+
+工行的项目对接过两次，一个是工银融e联，类似微信公众号的开发模式
+
+接着是我要讲的这个，工行API https://open.icbc.com.cn/icbc/apip/index.html
+
+因为没有材料所以个人注册这便很难测试，要不就是我没看懂文档，在做工银融e联开发的时候我就注意到了工行的这个
+开放API，尝试了下没通
+
+接着公司有项目用的就是这个开放API，总结了开发过程中文档没仔细看或是文档没写好，SDK不仔细，个人原因占多数
+
+
+
+
+
+
+
+
+
+[jekyll-docs]: https://jekyllrb.com/docs/home
+[jekyll-gh]:   https://github.com/jekyll/jekyll
+[jekyll-talk]: https://talk.jekyllrb.com/
