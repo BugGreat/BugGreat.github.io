@@ -18,7 +18,7 @@ categories: jekyll update
 
 
 |软件水平|
-|:--:|
+|:--|
 |java基础知识：掌握|
 |spring，springmvc，mybatis，springboot，springcloud：掌握|
 |mysql+oracle数据库：掌握
