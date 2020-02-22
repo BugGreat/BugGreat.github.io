@@ -28,19 +28,19 @@ categories: jekyll update
 |项目名称|江西中医药大学迎新系统|
 |:--:|:--:|
 |项目概述|这是一个二次开发项目，分为学生预报到web系统，后台管理系统，微信公众号系统。主要解决的问题是通过引导学生完成线上预报到，并提供打印学籍表，申请绿色通道。管理端统计学生来校时间，男女比例，报到率等统计图表。|
-|项目架构|ssm+oracle+freemarker+session|
+|项目架构|采用MVC风格，框架使用ssm+freemarker+session，数据库使用oracle|
 |工作内容|测试预报到流程及修改小问题，宿舍管理，学生分班|
 
 |项目名称|智慧政企|
 |:--:|:--:|
 |项目概述|给江西省机场集团公司提供的食堂点餐系统，主要解决食材的准备，员工通过微信公众号预定点餐及到食堂取餐和刷卡或刷码（基于POS机）|
-|项目架构|springboot+springcloud+mybatis+mysql+redis+oauth2+spring security+docker|
+|项目架构|使用restful风格，后端使用springboot+springcloud+mybatis，数据库使用mysql，权限管理使用redis+oauth2+spring security，项目部署使用docker+jenkins|
 |工作内容|商户管理，商品管理，微信授权登入|
 
 |项目名称|智慧社区|
 |:--:|:--:|
 |项目概述|给桃花苑商住小区提供的管理系统，主要解决业主物业费，停车费等费用线上（基于微信小程序和工行支付），线下缴纳（基于后台管理系统）及人员和车辆的的进出入管理（基于人脸识别设备和道闸设备）|
-|项目架构|springboot+mybatis+mysql+shiro|
+|项目架构|使用restful风格，后端使用springboot+mybatis，数据库使用mysql，权限管理使用shiro|
 |工作内容|道闸设备管理，车辆出入记录（控制道闸开门），停车费管理，工行支付（车牌无感支付，微信小程序埋名聚合支付）|
 
 [jekyll-docs]: https://jekyllrb.com/docs/home
