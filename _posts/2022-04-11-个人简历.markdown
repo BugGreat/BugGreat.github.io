@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "个人简历T"
-date:   17:08:00  GMT+0800
+title:  "个人简历"
+date:   2022-04-11 17:08:00  GMT+0800
 categories: jekyll update
 ---
 
