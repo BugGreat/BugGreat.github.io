@@ -7,7 +7,7 @@ categories: jekyll update
 
 # 
 
-工行的项目对接过两次，一个是工银融e联，类似微信公众号的开发模式
+工行的项目对接过两次gg，一个是工银融e联，类似微信公众号的开发模式
 
 接着是我要讲的这个，工行API https://open.icbc.com.cn/icbc/apip/index.html
 
